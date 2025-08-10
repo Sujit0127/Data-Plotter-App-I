@@ -28,3 +28,5 @@ Save as HTML: Optionally save the plot as an interactive HTML file.
   <br>
   4.plotly
 # Some Screenshots
+<img width="850" height="1029" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/d19af91a-c0e0-4bc0-9997-ff99675e34ab" /> <img width="849" height="1025" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/32564e49-aa7b-47d8-b55f-f1b08e60bf9c" />
+
